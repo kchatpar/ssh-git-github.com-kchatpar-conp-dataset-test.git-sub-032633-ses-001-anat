@@ -1,2 +1,4 @@
 [datalad "dataset"]
 	id = 9a4d5f76-5c73-11e9-9e05-52545e9add8e
+[datalad "metadata"]
+	nativtype = <nifti1>
